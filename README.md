@@ -1,3 +1,4 @@
+<pre>
    _____   _        ______              _____     __      __  _____   _____    ______    ____  
   / ____| | |      |  ____|     /\     |  __ \    \ \    / / |_   _| |  __ \  |  ____|  / __ \ 
  | |      | |      | |__       /  \    | |__) |    \ \  / /    | |   | |  | | | |__    | |  | |
@@ -24,3 +25,4 @@ at a strength that exceeds the current clear license will simply show a freeze-f
 Full strength licenses allow strength modulation from 512bit - 10,240bit.
 
 ----------------------------------------------------------------------------------
+</pre>
