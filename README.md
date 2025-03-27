@@ -7,16 +7,19 @@
   \_____| |______| |______| /_/    \_\ |_|  \_\       \/     |_____| |_____/  |______|  \____/ 
 
 
-2024, Quantum Knight, Inc
+Open Source:  Apache-2.0 license
 
 This project illustrates how to apply CLEAR encryption directly to a local webcam.
 Thanks and dependency on open-src Sarxos web-cam driver for Java.
 
 Running encryption requires (minimally) an ALWAYS-FREE community edition (CE) 
-license to the CLEAR Cryptosystem.  CE License can be obtained directly via CLI
-by typing:   java -jar clear_n_n_n_n.jar -license and following instructions.
+license to the CLEAR Cryptosystem. 
+   
+CE License can be obtained directly via CLI by typing:   
 
-Or visit:    https://quantumknight.io
+##################################################################################
+:>   java -jar clear_2.1.2.5.jar -license 
+##################################################################################
 
 ----------------------------------------------------------------------------------
 
